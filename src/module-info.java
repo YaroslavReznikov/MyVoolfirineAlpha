@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author yaroslav
- *
- */
-module MyVoolfrineAlpha {
-}
